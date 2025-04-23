@@ -1,7 +1,8 @@
 
-# Kids' Story Generator
+# Kids' Story Generator(https://kids-story-generator.onrender.com)
 
 Personalized Kids Story Generator is a web app that generates custom stories for children based on user-provided prompts. Built using Flask, OpenAI GPT-2, and deployed on Render, it leverages natural language processing to create fun and interactive storytelling experiences.
+
 
 ## Features
 
